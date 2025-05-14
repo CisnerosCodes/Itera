@@ -1,0 +1,10 @@
+# Loop 00 – Prompt Phase: How to Learn Anything Faster
+
+🧠 What skill or subject have you always struggled to learn or finish?
+
+🎯 What’s your learning goal?
+
+🗺️ How do you usually approach learning something new? What works? What doesn’t?
+
+💬 Optional AI prompt:
+> I'm starting a thinking loop on "How to learn faster." Help me break this down into components (e.g., memory, focus, technique) and identify which I should explore first.
