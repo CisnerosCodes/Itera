@@ -4,6 +4,15 @@
 
 ---
 
+## 📚 Table of Contents
+- [✨ How Itera Came to Be](#-how-itera-came-to-be)
+- [🧠 What Is Itera?](#-what-is-itera)
+- [🔁 Loop Phases](#-loop-phases)
+- [🚀 How to Start](#-how-to-start)
+- [🙏 Credits](#-credits)
+
+---
+
 ## ✨ How Itera Came to Be
 
 I’ve always been curious about **efficiency**.  
