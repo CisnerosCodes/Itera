@@ -1,0 +1,10 @@
+# Prompt Phase
+
+🎯 What is your area of curiosity, challenge, or ambition?
+
+🧠 What’s a core question to explore?
+
+🧭 What outcome would make this loop feel complete?
+
+📌 Optional prompt for AI:
+I’m entering a thinking loop on [TOPIC]. Help me clarify key subtopics and questions worth exploring.
